@@ -1,0 +1,10 @@
+embeddings {
+  tensor_name: "market:00060"
+  metadata_path: "00060/market/metadata.tsv"
+  tensor_path: "00060/market/tensors.tsv"
+}
+embeddings {
+  tensor_name: "Account DOW:00060"
+  metadata_path: "00060/Account DOW/metadata.tsv"
+  tensor_path: "00060/Account DOW/tensors.tsv"
+}
